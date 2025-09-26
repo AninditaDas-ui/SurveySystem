@@ -1,0 +1,18 @@
+=== Survey Results ===
+
+User: Sayan
+Survey: Employee feedback
+how satisfied are you with your job? → not satisfied
+-----------------------------
+User: Sayan
+Survey: Employee feedback
+any suggestions for improvement? → more team outings
+-----------------------------
+User: Sayan
+Survey: Employee feedback
+How satisfied are you with your job? → not satisfied
+-----------------------------
+User: Sayan
+Survey: Employee feedback
+Any suggestions for improvement? → more team outings
+-----------------------------
